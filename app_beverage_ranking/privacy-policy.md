@@ -1,6 +1,6 @@
 ---
 title: Beverage Ranking Privacy Policy
-permalink: /app-beverage-ranking/privacy-policy/
+permalink: /app-beverage-ranking--privacy-policy/
 ---
 
 # Beverage Ranking Privacy Policy

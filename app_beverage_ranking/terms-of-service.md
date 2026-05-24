@@ -1,6 +1,6 @@
 ---
 title: Beverage Ranking Terms of Service
-permalink: /app-beverage-ranking/terms-of-service/
+permalink: /app-beverage-ranking--terms-of-service/
 ---
 
 # Beverage Ranking Terms of Service
